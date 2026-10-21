@@ -1,0 +1,15 @@
+Plaintext
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Python cache and byte-code
+__pycache__/
+*.pyc
+
+# Streamlit local settings
+.streamlit/
+
+# Secret keys & environment files
+.env
