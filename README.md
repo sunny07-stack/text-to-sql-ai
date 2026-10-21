@@ -9,8 +9,6 @@ An end-to-end, locally hosted analytics assistant built with Streamlit, Python, 
 - **Natural Language Querying:** Query tabular business records without writing manual SQL.
 - **Dynamic Presentation Engine:** An LLM-driven routing layer classifies queries and renders the output as:
   - **Statements:** Summarized natural sentences for single-metric lookups.
-  - **Tables:** Structured tabular grids for entity lists and record lookups.
-  - **Bar Charts:** Visual comparative graphs for aggregations across categories.
 - **Transparency:** Displays the generated SQL syntax alongside the query results.
 
 ---
